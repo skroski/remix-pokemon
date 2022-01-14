@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/danielskroski/Documents/remix-pokemon/app/routes/pokemon/$name.tsx?browser"],
+  "sourcesContent": ["export * from \"/Users/danielskroski/Documents/remix-pokemon/app/routes/pokemon/$name.tsx\";"],
+  "mappings": ";;;;;AAAA;",
+  "names": []
+}
